@@ -1,0 +1,3 @@
+﻿  ConexionDB.cpp
+  main.cpp
+LINK : fatal error LNK1181: no se puede abrir el archivo de entrada 'libmysql.lib'
