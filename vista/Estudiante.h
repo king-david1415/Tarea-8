@@ -24,7 +24,7 @@ public:
 	   void setApellidos(string a) { apellidos = a; }
 	   void setDireccion(string d) { direccion = d; }
 	   void setTelefono(int t) { telefono = t; }
-	   void setFecha_Nacimiento(int f) { fecha_nacimiento = f; }
+	   void setFecha_Nacimiento(string f) { fecha_nacimiento = f; }
 	   void setId_Tipo_Sangre(int ts) { id_tipo_sangre = ts; }
 
 	   //get
